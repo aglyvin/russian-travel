@@ -1,6 +1,9 @@
 .header__lang-link {
-    text-decoration: none;
     color: #fff;
-    font-size: 18px;
-    line-height: calc(20 / 18);
-}
+    text-decoration: none;
+    padding-left: 18px;
+    font-weight: 400;
+    font-size:  24px;
+    line-height: 1.16;
+      /* border: solid red; */
+  }
