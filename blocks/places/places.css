@@ -1,6 +1,6 @@
 .places {
     max-width: 984px;
-    padding: 0 148px 92px;
+    padding: 0 148px 0px;
     display: grid;
     gap: 80px;
 }
@@ -9,7 +9,7 @@
     .places {
         padding-left: 48px;
         max-width: 928px;
-        padding: 0 48px 92px;
+        padding: 0 48px 0px;
     }
     
 }
