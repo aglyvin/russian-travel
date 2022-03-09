@@ -9,3 +9,9 @@
         max-width: 928px;
     }
 }
+
+@media screen and (max-width: 768px) {
+    .lead {
+        padding-bottom: 89px;
+    }
+}

@@ -6,3 +6,12 @@
     margin: 0;
     padding: 0;
 }
+
+@media screen and (max-width: 768px) {
+    .place__title {
+        font-size: 42px;
+        line-height: 46px;
+        /* word-spacing: 1rem; */
+        padding-right: 12px;
+    }
+}
