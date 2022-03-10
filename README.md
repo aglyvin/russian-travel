@@ -20,5 +20,5 @@
 * Adaptive
 
 **Результат**
-* [Проект](https://github.com/aglyvin/russian-travel)
+* [Проект](https://aglyvin.github.io/russian-travel/)
 
