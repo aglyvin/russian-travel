@@ -16,13 +16,6 @@
 @media screen and (max-width: 768px) {
     .place {
         column-gap: 28px;
-        grid-template-columns: 340px 1fr;
-        row-gap: 48px;
-    } 
-}
-@media screen and (max-width: 768px) {
-    .place {
-        column-gap: 28px;
         grid-template-columns: 100%;
         row-gap: 32px;
     } 
