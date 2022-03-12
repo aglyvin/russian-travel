@@ -5,3 +5,6 @@
     text-decoration-line: underline;
     font-style: normal;
 }
+.place__link:hover {
+    opacity: .5;
+}
