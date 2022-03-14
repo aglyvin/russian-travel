@@ -1,25 +1,23 @@
 .footer__link-item {
-    text-decoration: none;
-    color: white;
-    font-size: 16px;
-    line-height: 1.125;
-    font-weight: 400;
-    display: block;
-    padding-right: 18px;
-    background-color: #2A2C2F;
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  line-height: 1.125;
+  font-weight: 400;
+  display: block;
+  padding-right: 18px;
+  background-color: #2a2c2f;
 }
 
 .footer__link-item:hover {
-  opacity: .5;
+  opacity: 0.5;
 }
 
-@media screen and (max-width: 320px) {
-    .footer__link-item {
-      padding-bottom: 32px;
-      padding-right: 0;
-      font-size: 24px;
-      line-height: 24px;
-
-    }
+@media screen and (max-width: 470px) {
+  .footer__link-item {
+    padding-bottom: 32px;
+    padding-right: 0;
+    font-size: 24px;
+    line-height: 24px;
+  }
 }
-

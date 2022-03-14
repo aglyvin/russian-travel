@@ -1,20 +1,20 @@
 .header__lang-link {
-    color: #fff;
-    text-decoration: none;
-    padding-left: 18px;
-    font-weight: 400;
-    font-size:  24px;
-    line-height: 1.16;
-      /* border: solid red; */
-  }
+  color: #fff;
+  text-decoration: none;
+  padding-left: 18px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.16;
+  /* border: solid red; */
+}
 
-  @media screen and (max-width: 320px) {
-    .header__lang-link {
-      font-size: 18px;
-      line-height: 27px;
-    }
+@media screen and (max-width: 320px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 27px;
   }
+}
 
-  .header__lang-link:hover {
-    opacity: .5;
-  }
+.header__lang-link:hover {
+  opacity: 0.5;
+}

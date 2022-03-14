@@ -1,9 +1,10 @@
 # Проект: Путешествие по России
 
 ### Обзор
-* О проекте
-* Технологии
-* Результат
+
+- О проекте
+- Технологии
+- Результат
 
 **О проекте**
 
@@ -13,12 +14,12 @@
 
 **Технологии**
 
-* HTML
-* CSS
-* Grid
-* Flexbox
-* Adaptive
+- HTML
+- CSS
+- Grid
+- Flexbox
+- Adaptive
 
 **Результат**
-* [Проект](https://aglyvin.github.io/russian-travel/)
 
+- [Проект](https://aglyvin.github.io/russian-travel/)
